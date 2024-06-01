@@ -14,4 +14,10 @@ db.init_app(app)
 if __name__ == '__main__':
     app.run(debug=True)
 
+<<<<<<< Updated upstream
 #commit on main branch
+=======
+#commit 2
+
+# test commit
+>>>>>>> Stashed changes
